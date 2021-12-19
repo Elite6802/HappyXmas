@@ -72,7 +72,7 @@ body {
 #modalText {
   bottom: 0;
   display: inherit;
-  font-size: 5vmin;
+  font-size: 10vmin;
   height: fit-content;
   line-height: 2;
   margin: inherit;
